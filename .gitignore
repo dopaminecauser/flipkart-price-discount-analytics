@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/flipkart.db
+models/trained/*.pkl
+*.log
+
+node_modules/
+.next/
+*.tsbuildinfo
+
+.env.local
+.env
